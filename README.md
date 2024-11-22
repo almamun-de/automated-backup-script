@@ -10,3 +10,5 @@ This is a simple Python script that automates the process of backing up a specif
    git clone https://github.com/almmaun-de/automated-backup-script.git
    cd automated-backup-script
 
+Run the script:
+python3 automated_backup.py
